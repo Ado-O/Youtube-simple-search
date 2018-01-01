@@ -1,0 +1,15 @@
+{
+  "name":"simple-youtube-search",
+  "version": "1.0.0",
+  "description": "A simple youtube search app",
+  "main": "node_modules/expo/AppEntry.js",
+  "author": "Admir",
+  "private": true,
+  "dependencies": {
+    "expo": "^24.0.0",
+    "react": "16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-24.0.0.tar.gz",
+    "react-native-elements": "^0.18.5",
+    "youtube-api-search": "0.0.5"
+  }
+}
